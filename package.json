@@ -1,0 +1,24 @@
+{
+  "name": "s2s-server",
+  "version": "0.0.1",
+  "description": "Server to handle the REST API and web applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/team-gonzo/s2s-server.git"
+  },
+  "author": "gonzo-ryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/team-gonzo/s2s-server/issues"
+  },
+  "homepage": "https://github.com/team-gonzo/s2s-server#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mocha": "^3.1.2",
+    "passport": "^0.3.2"
+  }
+}
